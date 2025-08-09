@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-docx
+docxtpl
+pytesseract
+Pillow
+pytest
+httpx
+email-validator
+pydantic-settings
